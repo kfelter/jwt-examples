@@ -1,5 +1,3 @@
-[]: # Title: JWT Token Example
-
 ## Create a JWT signing key and public key
 
 ```bash
